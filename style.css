@@ -47,15 +47,22 @@ header img {
   background-color: #362f29;
   color: #f4f1ec;
 }
-.cta a {
-  display: inline-block;
+.cta-button {
+  display: inline-flex;
+  align-items: center;
   margin-top: 1rem;
   padding: 0.75rem 1.5rem;
   background-color: #a67c52;
   color: white;
   text-decoration: none;
   font-weight: bold;
-  border-radius: 5px;
+  border-radius: 50px;
+  font-size: 1.1rem;
+}
+.cta-icon {
+  width: 24px;
+  height: auto;
+  margin-right: 10px;
 }
 footer {
   text-align: center;
