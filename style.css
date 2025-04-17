@@ -41,6 +41,30 @@ header img {
   margin: 0 auto;
   font-size: 1.1rem;
 }
+.testimonials {
+  background-color: #ffffff;
+  padding: 4rem 2rem;
+  text-align: center;
+}
+.testimonials h2 {
+  color: #362f29;
+  margin-bottom: 1rem;
+}
+.testimonials p {
+  font-size: 1.2rem;
+  max-width: 600px;
+  margin: 0 auto 2rem;
+}
+.testimonial-button {
+  display: inline-block;
+  background-color: #a67c52;
+  color: white;
+  text-decoration: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1.1rem;
+  border-radius: 50px;
+  font-weight: bold;
+}
 .cta {
   text-align: center;
   padding: 3rem 2rem;
