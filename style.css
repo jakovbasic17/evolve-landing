@@ -35,11 +35,14 @@ header img {
   color: #362f29;
   margin-bottom: 1rem;
 }
-.section ul {
-  list-style-type: square;
+.features-list {
   max-width: 700px;
   margin: 0 auto;
+  text-align: left;
   font-size: 1.1rem;
+}
+.features-list li {
+  margin-bottom: 0.5rem;
 }
 .testimonials {
   background-color: #ffffff;
